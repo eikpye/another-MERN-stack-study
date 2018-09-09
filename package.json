@@ -1,7 +1,6 @@
 {
   "name": "mernstudy",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "dependencies": {
     "bcryptjs": "^2.4.3",
@@ -20,5 +19,14 @@
     "server": "cd ./server && nodemon server.js"
   },
   "author": "Eik",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eikpye/another-MERN-stack-study.git"
+  },
+  "bugs": {
+    "url": "https://github.com/eikpye/another-MERN-stack-study/issues"
+  },
+  "homepage": "https://github.com/eikpye/another-MERN-stack-study#readme",
+  "description": ""
 }
